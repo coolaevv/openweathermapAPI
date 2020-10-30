@@ -6,7 +6,7 @@ while True:
     print("Введите название, либо координаты(Широту и долготу, разделите запятой)")
     inData = input('=> ')
 
-    api_key = "876423556a49ee06d1c76debbac3a8b7"
+    api_key = ""
 
 
     def Main():
